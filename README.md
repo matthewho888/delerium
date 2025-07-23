@@ -74,18 +74,17 @@ Models: `LogisticRegression`, `RandomForestClassifier`, `GradientBoostingClassif
 |------|-------------|
 | `delirium_prediction_model.ipynb` | Main notebook with Models 1 and 2 |
 | `data/` | Local dataset directory (not uploaded to GitHub) |
-| `images/` | ROC, SHAP, and PCA visualizations (optional) |
 | `README.md` | This file
 
 ---
 
-## 🧠 Background
+## Background
 
 Delirium is a fluctuating disturbance in attention and cognition often seen in COVID-19 patients, with multifactorial causes including inflammation. Early prediction is critical but difficult, as pharmacological interventions are limited and detection is often delayed.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: [26matthewho@berkeley.edu](mailto:26matthewho@berkeley.edu)
 - GitHub: [matthewho](https://github.com/matthewho)
